@@ -1,4 +1,4 @@
-#Análise de Dados de Emendas Parlamentares
+# Análise de Dados de Emendas Parlamentares
 
 
 Script desenvolvido para capturar e analisar dados das emendas parlamentares para todos os estados do Brasil disponibilizados por meio de API fornecida pelo portal da transparência do Governo Federal.
@@ -25,7 +25,7 @@ Endereço:
 
 ____________________________________________________________
 
-O que são emendas parlamentares?
+## O que são emendas parlamentares?
 
 As emendas parlamentares são propostas realizadas pelos deputados para financiar políticas públicas. São realizadas por meio de emendas ao projeto de Lei Orçamentária Anual (LOA), que é votado anualmente pelos parlamentares e passam a fazer parte do orçamento público estadual para o ano seguinte. A execução orçamentária e financeira das emendas é obrigatória.
 
